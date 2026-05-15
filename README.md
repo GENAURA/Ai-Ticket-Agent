@@ -296,9 +296,6 @@ Automated email notifications for:
 
 This project is licensed under the ISC License.
 
-## 👨‍💻 Author
-
-Created by [Rishi Shanbhag](https://github.com/rishishanbhag)
 
 ---
 
@@ -306,7 +303,6 @@ Created by [Rishi Shanbhag](https://github.com/rishishanbhag)
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/rishishanbhag/ticket-ai/issues) section
 2. Create a new issue with detailed information
 3. Contact the maintainer
 
